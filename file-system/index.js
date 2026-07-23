@@ -25,5 +25,11 @@ fs.appendFileSync("textFile.txt","1234567890")
 //renameSync
 
 
+//file details
+let details=fs.statSync("textFile.txt")
+console.log(details);
+
+
+
 
 console.log(file)
