@@ -2,5 +2,24 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
-  }
+  },
+  "name": "node-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swaroop-Thorat/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swaroop-Thorat/Node-JS/issues"
+  },
+  "homepage": "https://github.com/Swaroop-Thorat/Node-JS#readme",
+  "description": ""
 }
