@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Simple Form Input</title>
+    </head>
+    <body>
+        <h2>Enter Message</h2>
+        <form action="http://localhost:5000/submit" method="POST">
+            <label for="message">Input:</label>
+            <input type="text" id="message" name="userInput" required />
+            <button type="submit">Submit to Server</button>
+        </form>
+    </body>
+</html>
